@@ -5,8 +5,8 @@ import os
 app = Flask(__name__)
 
 # معلومات البث (بناءً على تفاصيل Castr التي زودتنا بها)
-stream_url = "rtmp://southafrica.castr.io/static"
-stream_key = "live_6c2ff400a29a11efb8c229f603a8387e?password=a1868a0b"
+stream_url = "rtmp://uk.castr.io/static"
+stream_key = "live_6e37f4d0a2a111efa94b992b02586e23?password=79236e13"
 video_path = ""  # سيتم تعيينه بعد رفع الفيديو
 
 # قالب HTML للصفحة الرئيسية
